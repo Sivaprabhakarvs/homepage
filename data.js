@@ -8,465 +8,465 @@
 const galleryData = {
   "artworks": [
     {
-      "filename": "virat.avif",
+      "filename": "Virat.avif",
       "title": "Virat",
       "category": "pencil_sketches"
     },
     {
-      "filename": "wolf.avif",
+      "filename": "Wolf.avif",
       "title": "Wolf",
       "category": "pencil_sketches"
     },
     {
-      "filename": "women.avif",
+      "filename": "Women.avif",
       "title": "Women",
       "category": "pencil_sketches"
     },
     {
-      "filename": "separation.avif",
+      "filename": "Separation.avif",
       "title": "Separation",
       "category": "pencil_sketches"
     },
     {
-      "filename": "sitaramam.avif",
+      "filename": "Sitaramam.avif",
       "title": "Sitaramam",
       "category": "pencil_sketches"
     },
     {
-      "filename": "tovino.avif",
+      "filename": "Tovino.avif",
       "title": "Tovino",
       "category": "pencil_sketches"
     },
     {
-      "filename": "pig.avif",
+      "filename": "Pig.avif",
       "title": "Pig",
       "category": "pencil_sketches"
     },
     {
-      "filename": "radha_krishnan.avif",
+      "filename": "Radha_krishnan.avif",
       "title": "Radha Krishnan",
       "category": "pencil_sketches"
     },
     {
-      "filename": "panda.avif",
+      "filename": "Panda.avif",
       "title": "Panda",
       "category": "pencil_sketches"
     },
     {
-      "filename": "phoenix_2.avif",
+      "filename": "Phoenix_2.avif",
       "title": "Phoenix 2",
       "category": "pencil_sketches"
     },
     {
-      "filename": "jumbo.avif",
+      "filename": "Jumbo.avif",
       "title": "Jumbo",
       "category": "pencil_sketches"
     },
     {
-      "filename": "krishna.avif",
+      "filename": "Krishna.avif",
       "title": "Krishna",
       "category": "pencil_sketches"
     },
     {
-      "filename": "mrunal.avif",
+      "filename": "Mrunal.avif",
       "title": "Mrunal",
       "category": "pencil_sketches"
     },
     {
-      "filename": "iron_man.avif",
+      "filename": "Iron_man.avif",
       "title": "Iron Man",
       "category": "pencil_sketches"
     },
     {
-      "filename": "joker.avif",
+      "filename": "Joker.avif",
       "title": "Joker",
       "category": "pencil_sketches"
     },
     {
-      "filename": "joker_2.avif",
+      "filename": "Joker_2.avif",
       "title": "Joker 2",
       "category": "pencil_sketches"
     },
     {
-      "filename": "grab.avif",
+      "filename": "Grab.avif",
       "title": "Grab",
       "category": "pencil_sketches"
     },
     {
-      "filename": "hanging.avif",
+      "filename": "Hanging.avif",
       "title": "Hanging",
       "category": "pencil_sketches"
     },
     {
-      "filename": "horse.avif",
+      "filename": "Horse.avif",
       "title": "Horse",
       "category": "pencil_sketches"
     },
     {
-      "filename": "fe_bo_mar.avif",
+      "filename": "Fe_bo_mar.avif",
       "title": "Fe Bo Mar",
       "category": "pencil_sketches"
     },
     {
-      "filename": "flower.avif",
+      "filename": "Flower.avif",
       "title": "Flower",
       "category": "pencil_sketches"
     },
     {
-      "filename": "fly.avif",
+      "filename": "Fly.avif",
       "title": "Fly",
       "category": "pencil_sketches"
     },
     {
-      "filename": "cow.avif",
+      "filename": "Cow.avif",
       "title": "Cow",
       "category": "pencil_sketches"
     },
     {
-      "filename": "depression.avif",
+      "filename": "Depression.avif",
       "title": "Depression",
       "category": "pencil_sketches"
     },
     {
-      "filename": "dh_kh_ro.avif",
+      "filename": "Dh_kh_ro.avif",
       "title": "Dh Kh Ro",
       "category": "pencil_sketches"
     },
     {
-      "filename": "caricature_2.avif",
+      "filename": "Caricature_2.avif",
       "title": "Caricature 2",
       "category": "pencil_sketches"
     },
     {
-      "filename": "caricature_3.avif",
+      "filename": "Caricature_3.avif",
       "title": "Caricature 3",
       "category": "pencil_sketches"
     },
     {
-      "filename": "cartoon_1.avif",
+      "filename": "Cartoon_1.avif",
       "title": "Cartoon 1",
       "category": "pencil_sketches"
     },
     {
-      "filename": "bunny.avif",
+      "filename": "Bunny.avif",
       "title": "Bunny",
       "category": "pencil_sketches"
     },
     {
-      "filename": "captain.avif",
+      "filename": "Captain.avif",
       "title": "Captain",
       "category": "pencil_sketches"
     },
     {
-      "filename": "caricature_1.avif",
+      "filename": "Caricature_1.avif",
       "title": "Caricature 1",
       "category": "pencil_sketches"
     },
     {
-      "filename": "alone.avif",
+      "filename": "Alone.avif",
       "title": "Alone",
       "category": "pencil_sketches"
     },
     {
-      "filename": "birds.avif",
+      "filename": "Birds.avif",
       "title": "Birds",
       "category": "pencil_sketches"
     },
     {
-      "filename": "bro_daddy.avif",
+      "filename": "Bro_daddy.avif",
       "title": "Bro Daddy",
       "category": "pencil_sketches"
     },
     {
-      "filename": "cbi.avif",
+      "filename": "Cbi.avif",
       "title": "CBI",
       "category": "pencil_sketches"
     },
     {
-      "filename": "dashamoolam_damu.avif",
+      "filename": "Dashamoolam_damu.avif",
       "title": "Dashamoolam Damu",
       "category": "pencil_sketches"
     },
     {
-      "filename": "messi.avif",
+      "filename": "Messi.avif",
       "title": "Messi",
       "category": "pencil_sketches"
     },
     {
-      "filename": "phoenix.avif",
+      "filename": "Phoenix.avif",
       "title": "Phoenix",
       "category": "pencil_sketches"
     },
     {
-      "filename": "shammi.avif",
+      "filename": "Shammi.avif",
       "title": "Shammi",
       "category": "pencil_sketches"
     },
 
     {
-      "filename": "voyage.avif",
+      "filename": "Voyage.avif",
       "title": "Voyage",
       "category": "photographs"
     },
     {
-      "filename": "wanderer.avif",
+      "filename": "Wanderer.avif",
       "title": "Wanderer",
       "category": "photographs"
     },
     {
-      "filename": "waves.avif",
+      "filename": "Waves.avif",
       "title": "Waves",
       "category": "photographs"
     },
     {
-      "filename": "sunwashed.avif",
+      "filename": "Sunwashed.avif",
       "title": "Sunwashed",
       "category": "photographs"
     },
     {
-      "filename": "together.avif",
+      "filename": "Together.avif",
       "title": "Together",
       "category": "photographs"
     },
     {
-      "filename": "vintage.avif",
+      "filename": "Vintage.avif",
       "title": "Vintage",
       "category": "photographs"
     },
     {
-      "filename": "solitude.avif",
+      "filename": "Solitude.avif",
       "title": "Solitude",
       "category": "photographs"
     },
     {
-      "filename": "spice.avif",
+      "filename": "Spice.avif",
       "title": "Spice",
       "category": "photographs"
     },
     {
-      "filename": "still.avif",
+      "filename": "Still.avif",
       "title": "Still",
       "category": "photographs"
     },
     {
-      "filename": "serenity.avif",
+      "filename": "Serenity.avif",
       "title": "Serenity",
       "category": "photographs"
     },
     {
-      "filename": "snap.avif",
+      "filename": "Snap.avif",
       "title": "Snap",
       "category": "photographs"
     },
     {
-      "filename": "soar.avif",
+      "filename": "Soar.avif",
       "title": "Soar",
       "category": "photographs"
     },
     {
-      "filename": "solace.avif",
+      "filename": "Solace.avif",
       "title": "Solace",
       "category": "photographs"
     },
     {
-      "filename": "royalty.avif",
+      "filename": "Royalty.avif",
       "title": "Royalty",
       "category": "photographs"
     },
     {
-      "filename": "say_cheez.avif",
+      "filename": "Say_cheez.avif",
       "title": "Say Cheez",
       "category": "photographs"
     },
     {
-      "filename": "nomad.avif",
+      "filename": "Nomad.avif",
       "title": "Nomad",
       "category": "photographs"
     },
     {
-      "filename": "radiance.avif",
+      "filename": "Radiance.avif",
       "title": "Radiance",
       "category": "photographs"
     },
     {
-      "filename": "reflections.avif",
+      "filename": "Reflections.avif",
       "title": "Reflections",
       "category": "photographs"
     },
     {
-      "filename": "lotus.avif",
+      "filename": "Lotus.avif",
       "title": "Lotus",
       "category": "photographs"
     },
     {
-      "filename": "monumental.avif",
+      "filename": "Monumental.avif",
       "title": "Monumental",
       "category": "photographs"
     },
     {
-      "filename": "nectar.avif",
+      "filename": "Nectar.avif",
       "title": "Nectar",
       "category": "photographs"
     },
     {
-      "filename": "humayun_tomb.avif",
+      "filename": "Humayun_tomb.avif",
       "title": "Humayun Tomb",
       "category": "photographs"
     },
     {
-      "filename": "hunter.avif",
+      "filename": "Hunter.avif",
       "title": "Hunter",
       "category": "photographs"
     },
     {
-      "filename": "innocence.avif",
+      "filename": "Innocence.avif",
       "title": "Innocence",
       "category": "photographs"
     },
     {
-      "filename": "hawa_mahal.avif",
+      "filename": "Hawa_mahal.avif",
       "title": "Hawa Mahal",
       "category": "photographs"
     },
     {
-      "filename": "horizon.avif",
+      "filename": "Horizon.avif",
       "title": "Horizon",
       "category": "photographs"
     },
     {
-      "filename": "get_set_go.avif",
+      "filename": "Get_set_go.avif",
       "title": "Get Set Go",
       "category": "photographs"
     },
     {
-      "filename": "grace.avif",
+      "filename": "Grace.avif",
       "title": "Grace",
       "category": "photographs"
     },
     {
-      "filename": "ecosystem.avif",
+      "filename": "Ecosystem.avif",
       "title": "Ecosystem",
       "category": "photographs"
     },
     {
-      "filename": "edge.avif",
+      "filename": "Edge.avif",
       "title": "Edge",
       "category": "photographs"
     },
     {
-      "filename": "freedom.avif",
+      "filename": "Freedom.avif",
       "title": "Freedom",
       "category": "photographs"
     },
     {
-      "filename": "connection.avif",
+      "filename": "Connection.avif",
       "title": "Connection",
       "category": "photographs"
     },
     {
-      "filename": "delicate.avif",
+      "filename": "Delicate.avif",
       "title": "Delicate",
       "category": "photographs"
     },
     {
-      "filename": "drift.avif",
+      "filename": "Drift.avif",
       "title": "Drift",
       "category": "photographs"
     },
     {
-      "filename": "bloom.avif",
+      "filename": "Bloom.avif",
       "title": "Bloom",
       "category": "photographs"
     },
     {
-      "filename": "companions.avif",
+      "filename": "Companions.avif",
       "title": "Companions",
       "category": "photographs"
     },
     {
-      "filename": "confluence.avif",
+      "filename": "Confluence.avif",
       "title": "Confluence",
       "category": "photographs"
     },
     {
-      "filename": "balance.avif",
+      "filename": "Balance.avif",
       "title": "Balance",
       "category": "photographs"
     },
     {
-      "filename": "bell.avif",
+      "filename": "Bell.avif",
       "title": "Bell",
       "category": "photographs"
     },
     {
-      "filename": "grab.avif",
+      "filename": "Grab.avif",
       "title": "Grab",
       "category": "photographs"
     },
     {
-      "filename": "majestic.avif",
+      "filename": "Majestic.avif",
       "title": "Majestic",
       "category": "photographs"
     },
     {
-      "filename": "mount.avif",
+      "filename": "Mount.avif",
       "title": "Mount",
       "category": "photographs"
     },
     {
-      "filename": "peacock.avif",
+      "filename": "Peacock.avif",
       "title": "Peacock",
       "category": "photographs"
     },
     {
-      "filename": "petronas.avif",
+      "filename": "Petronas.avif",
       "title": "Petronas",
       "category": "photographs"
     },
     {
-      "filename": "spread_of_life.avif",
+      "filename": "Spread_of_life.avif",
       "title": "Spread Of Life",
       "category": "photographs"
     },
     {
-      "filename": "vibrance.avif",
+      "filename": "Vibrance.avif",
       "title": "Vibrance",
       "category": "photographs"
     },
 
     {
-      "filename": "solo_1.avif",
-      "title": "",
+      "filename": "Solo_1.avif",
+      "title": "Solo 1",
       "category": "gallery",
       "folder": "Solo"
     },
     {
-      "filename": "solo_2.avif",
-      "title": "",
+      "filename": "Solo_2.avif",
+      "title": "Solo 2",
       "category": "gallery",
       "folder": "Solo"
     },
     {
-      "filename": "friend.avif",
-      "title": "",
+      "filename": "Friend.avif",
+      "title": "Friend",
       "category": "gallery",
       "folder": "Family"
     },
     {
-      "filename": "family.avif",
-      "title": "",
+      "filename": "Family.avif",
+      "title": "Family",
       "category": "gallery",
       "folder": "Family"
     },
     {
-      "filename": "group_1.avif",
-      "title": "",
+      "filename": "Group_1.avif",
+      "title": "Group 1",
       "category": "gallery",
       "folder": "Friends"
     },
     {
-      "filename": "group_2.avif",
-      "title": "",
+      "filename": "Group_2.avif",
+      "title": "Group 2",
       "category": "gallery",
       "folder": "Friends"
     }
