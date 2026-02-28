@@ -1,0 +1,12 @@
+{
+    "name": "Siva Prabhakar",
+    "short_name": "Siva",
+    "icons": [
+        {
+            "src": "/assets/favicons/favicon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "display": "standalone"
+}
