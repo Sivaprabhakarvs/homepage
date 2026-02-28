@@ -32,6 +32,18 @@ const galleryData = {
 	  "folder": "Family"
     },
     {
+      "filename": "group_1.avif",
+      "title": "",
+      "category": "gallery",
+	  "folder": "Friends"
+    },
+    {
+      "filename": "group_2.avif",
+      "title": "",
+      "category": "gallery",
+	  "folder": "Friends"
+    },
+    {
       "filename": "vikram.avif",
       "title": "Vikram",
       "category": "pencil_sketches"
