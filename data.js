@@ -662,12 +662,12 @@ const galleryData = {
     },
     {
       "filename": "Kozhikode_1.avif",
-      "folder": "Btech Chronicles",
+      "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
     {
       "filename": "Kuttiyadi.avif",
-      "folder": "Btech Chronicles",
+      "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
 
