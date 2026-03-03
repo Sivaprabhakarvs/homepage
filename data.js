@@ -7,6 +7,9 @@
 
 const galleryData = {
   "artworks": [
+
+    /* -------------------- PENCIL SKETCHES -------------------- */
+
     {
       "filename": "Virat.avif",
       "title": "Virat",
@@ -202,6 +205,8 @@ const galleryData = {
       "title": "Shammi",
       "category": "pencil_sketches"
     },
+
+    /* -------------------- PHOTOGRAPHS -------------------- */
 
     {
       "filename": "Voyage.avif",
@@ -433,7 +438,10 @@ const galleryData = {
       "title": "Vibrance",
       "category": "photographs"
     },
-	{
+
+    /* -------------------- GALLERY (CORRECTED) -------------------- */
+
+    {
       "filename": "4th_year.avif",
       "folder": "B.Tech Chronicles",
       "category": "gallery"
@@ -557,6 +565,270 @@ const galleryData = {
       "filename": "Farewell_2.avif",
       "folder": "B.Tech Chronicles",
       "category": "gallery"
-    }  	
+    },
+
+    {
+      "filename": "Goa_gang.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+    {
+      "filename": "Goa_group.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+    {
+      "filename": "Gulmohar_2.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+    {
+      "filename": "Guwahati_1.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+    {
+      "filename": "Harichettan_marriage.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+    {
+      "filename": "Hyderabad_1.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+    {
+      "filename": "Ichu_unni.avif",
+      "folder": "Family",
+      "category": "gallery"
+    },
+    {
+      "filename": "Igatpuri.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "Jenson_fam.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+    {
+      "filename": "Jom_riji.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "Kanpur_group_1.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+    {
+      "filename": "Kanpur_group_2.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+    {
+      "filename": "Kanpur_group_3.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+    {
+      "filename": "Kanpur_mtechs.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+    {
+      "filename": "Kanpur_onam.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "Khajuraho.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+    {
+      "filename": "Knottyard.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+    {
+      "filename": "Knottyard_2.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+    {
+      "filename": "Kozhikode_1.avif",
+      "folder": "Btech Diaries",
+      "category": "gallery"
+    },
+    {
+      "filename": "Kuttiyadi.avif",
+      "folder": "Btech Diaries",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "Lab_4.avif",
+      "folder": "PERI Group",
+      "category": "gallery"
+    },
+    {
+      "filename": "Lab_5.avif",
+      "folder": "PERI Group",
+      "category": "gallery"
+    },
+    {
+      "filename": "Lab_group_1.avif",
+      "folder": "PERI Group",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "Marriage.avif",
+      "folder": "Solo",
+      "category": "gallery"
+    },
+    {
+      "filename": "Marriage_family.avif",
+      "folder": "Family",
+      "category": "gallery"
+    },
+    {
+      "filename": "Marriage_group.avif",
+      "folder": "Family",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "MCA_onam.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+    {
+      "filename": "Movie_group.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+    {
+      "filename": "Mumbai.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "Nair_kora.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+    {
+      "filename": "Naji_nair.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+    {
+      "filename": "NITC_boys.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "Ootty_friends.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+    {
+      "filename": "Phd_electrical.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+    {
+      "filename": "Rafting.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+    {
+      "filename": "Rashi.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+    {
+      "filename": "Reception.avif",
+      "folder": "Solo",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "Sajithettan_home_1.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+    {
+      "filename": "Sajithettan_home_2.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+    {
+      "filename": "Sajithettan_home_3.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "Sanjay_gandhi_1.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+    {
+      "filename": "Sanjay_gandhi_2.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+    {
+      "filename": "Shakz_home.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+    {
+      "filename": "Shiladri.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+    {
+      "filename": "Solo.avif",
+      "folder": "Solo",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "Trivandrum_2.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+    {
+      "filename": "USA_1.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+
+    {
+      "filename": "Vishnu_1.avif",
+      "folder": "Family",
+      "category": "gallery"
+    },
+    {
+      "filename": "Vishnu_2.avif",
+      "folder": "Family",
+      "category": "gallery"
+    },
+    {
+      "filename": "Vishnu_3.avif",
+      "folder": "Family",
+      "category": "gallery"
+    }
+
   ]
 };
