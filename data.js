@@ -705,7 +705,7 @@ const galleryData = {
 
     {
       "filename": "MCA_onam.avif",
-      "folder": "Kanpur Days",
+      "folder": "Bombay Diaries",
       "category": "gallery"
     },
     {
