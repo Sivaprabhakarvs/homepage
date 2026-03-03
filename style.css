@@ -936,3 +936,28 @@ body {
         font-size: 0.75rem;
     }
 }
+
+/* Research section helpers */
+.research-divider {
+    border: 0;
+    border-top: 1px solid var(--glass-border);
+    margin: 1.5rem 0;
+}
+
+/* Reduce only the Hardware Validation image(s) by filename (no cropping) */
+.research-figure img[src*="expt_setup"],
+.research-figure img[src*="hardware_setup_final"]{
+    width: 85%;
+    max-width: 420px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+@media (max-width: 620px){
+    .research-figure img[src*="expt_setup"],
+    .research-figure img[src*="hardware_setup_final"]{
+        width: 100%;
+        max-width: 360px;
+    }
+}

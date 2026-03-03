@@ -828,7 +828,33 @@ const galleryData = {
       "filename": "Vishnu_3.avif",
       "folder": "Family",
       "category": "gallery"
+    },
+    {
+      "filename": "Solo_5.avif",
+      "folder": "Solo",
+      "category": "gallery"
+    },
+    {
+      "filename": "Solo_6.avif",
+      "folder": "Solo",
+      "category": "gallery"
+    },
+    {
+      "filename": "Solo_7.avif",
+      "folder": "Solo",
+      "category": "gallery"
+    },
+    {
+      "filename": "Solo_4.avif",
+      "folder": "Solo",
+      "category": "gallery"
+    },
+    {
+      "filename": "Kanpur_gang.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
     }
+	
 
   ]
 };

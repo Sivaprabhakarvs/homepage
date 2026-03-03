@@ -441,50 +441,173 @@
 
             <section id="research" class="tab-panel">
                 <h2 class="section-title">Research & Innovation</h2>
+
                 <div class="bento-grid">
                     <div class="bento-card span-3">
-                        <h3>On-board Power Electronic DC-DC Converters</h3>
-                        <p>Developing compact, cost-effective, and efficient DC-DC converters for electric vehicles, including onboard chargers (OBC) and auxiliary power modules (APM). The core focus of my Ph.D. thesis at IIT Bombay.</p>
+                        <h3>Advanced Power Electronic Architectures for Electric Mobility and Renewable Energy Systems</h3>
+                        <p class="details-text">My research focuses on analytical modeling, architecture-level innovation, and hardware-validated design of high-efficiency power electronic converters for electric vehicles and renewable energy systems. The work integrates theoretical derivation, frequency-domain modeling, magnetic design, and experimental validation to develop compact and energy-efficient power conversion systems.</p>
                     </div>
 
                     <div class="bento-card span-3 research-work-card">
                         <div class="research-work-grid">
                             <div class="research-work-text">
-                                <div class="research-work-kicker">Work 1</div>
-                                <h3 class="research-work-title">Integration of OBC and APM</h3>
-                                <p>An integrated topology that combines onboard charger (OBC) and auxiliary power module (APM) can reduce size, cost, and weight in electric vehicles, especially as the APM power rating increases. Many existing solutions use additional switches or relays to alternate between OBC and APM functions, which prevents simultaneous operation. Other approaches rely on multi-winding transformers, which increases complexity and volume.</p>
-                                <p class="details-text">In this work, I propose a three-port integrated power converter that supports both OBC and APM operation without additional switches, relays, or multi-winding transformers. The topology uses three bridge configurations, two transformers, and one or two inductors. I validated the concept through circuit-level simulations in PLECS and hardware experiments on a prototype integrating a 1.5 kW OBC and a 350 W APM using a Texas Instruments C2000 Piccolo MCU (F28027F LaunchPad).</p>
+                                <div class="research-work-kicker">PhD Research</div>
+                                <h3 class="research-work-title">Three-Port Integrated Power Converter for Electric Vehicles (Patented Architecture)</h3>
+                                <p>Conventional electric vehicles employ separate converters for high-voltage battery charging and low-voltage auxiliary loads, which increases component count, volume, and cost.</p>
+                                <p class="details-text">To address this, I developed a three-port integrated power converter (IPC) capable of performing onboard charger (OBC) and auxiliary power module (APM) operations simultaneously.</p>
+
+                                <h4>Key Contributions</h4>
+                                <ul class="clean-list">
+                                    <li>Architecture-level integration without multi-winding transformers</li>
+                                    <li>Elimination of redundant switches and relays</li>
+                                    <li>Analytical power and operating mode derivation</li>
+                                    <li>RMS current reduction through design methodology</li>
+                                    <li>Current-cancellation-based conduction loss reduction</li>
+                                    <li>Magnetic component sizing and loss estimation</li>
+                                    <li>Closed-loop DSP-based implementation</li>
+                                    <li>Industrial collaboration and granted patent</li>
+                                </ul>
+
+                                <p class="details-text">The proposed IPC consists of three bridge configurations and two transformers, enabling simultaneous energy transfer between the grid, high-voltage battery, and low-voltage battery.</p>
                             </div>
 
                             <div class="research-work-media">
                                 <figure class="research-figure">
-                                    <img src="assets/images/research/circuit_diagram.png" alt="Circuit diagram of the proposed integrated power converter" loading="lazy" decoding="async">
-                                    <figcaption>Fig. 1. Circuit diagram of the proposed integrated power converter.</figcaption>
+                                    <img src="assets/images/research/circuit_diagram_8.avif" alt="Patented circuit diagram of the proposed three-port integrated power converter" loading="lazy" decoding="async">
+                                    <figcaption>Fig. 1. Patented IPC circuit diagram.</figcaption>
                                 </figure>
                                 <figure class="research-figure">
-                                    <img src="assets/images/research/revised_hardware_prototype.png" alt="Revised hardware prototype of the integrated power converter" loading="lazy" decoding="async">
-                                    <figcaption>Fig. 2. Revised hardware prototype.</figcaption>
+                                    <img src="assets/images/research/revised_hardware_prototype.avif" alt="Hardware prototype of the integrated power converter" loading="lazy" decoding="async">
+                                    <figcaption>Fig. 2. Hardware prototype of the integrated OBC and APM converter.</figcaption>
                                 </figure>
                             </div>
                         </div>
                     </div>
 
-                    <div class="bento-card span-1">
-                        <h4>Design Methodologies</h4>
-                        <p class="details-text">Proposed three distinct IPC design approaches and identified the most suitable for two-wheeler EV applications, benchmarking against market alternatives.</p>
+                    <div class="bento-card span-3 research-work-card">
+                        <div class="research-work-grid">
+                            <div class="research-work-text">
+                                <div class="research-work-kicker">Hardware Validation</div>
+                                <h3 class="research-work-title">Hardware Prototype and Experimental Platform</h3>
+                                <p>A 1.5 kW onboard charger integrated with a 350 W auxiliary power module was designed, built, and experimentally validated.</p>
+
+                                <h4>The prototype integrates</h4>
+                                <ul class="clean-list">
+                                    <li>Custom-designed transformers</li>
+                                    <li>Leakage-inductance-controlled magnetic structures</li>
+                                    <li>Optimized heat sink and layout</li>
+                                    <li>DSP-based controller (TI C2000 LaunchPad)</li>
+                                    <li>Full closed-loop implementation</li>
+                                </ul>
+
+                                <p class="details-text">The experimental platform includes a programmable input supply, electronic load, auxiliary power supply, and a high-bandwidth oscilloscope for waveform validation.</p>
+                            </div>
+
+                            <div class="research-work-media">
+                                <figure class="research-figure">
+                                    <img src="assets/images/research/expt_setup.avif" alt="Experimental setup used for validation" loading="lazy" decoding="async">
+                                    <figcaption>Fig. 3. Experimental setup used for validation.</figcaption>
+                                </figure>
+</div>
+                        </div>
                     </div>
 
-                    <div class="bento-card span-2">
-                        <h4>Light-Load Efficiency Improvement of SDABC</h4>
+                    <div class="bento-card span-3">
+                        <h3>Design Methodologies for Three-Port Converters</h3>
+                        <p>Developed and benchmarked three IPC design approaches for two-wheeler EV applications.</p>
+                        <h4>The methodologies target</h4>
                         <ul class="clean-list">
-                            <li>Identified significant efficiency loss in the semi-dual active bridge converter (SDABC) under light-load conditions.</li>
-                            <li>Proposed design-based strategies to improve overall energy efficiency.</li>
+                            <li>Conduction loss reduction</li>
+                            <li>RMS current reduction</li>
+                            <li>Current cancellation enhancement</li>
+                            <li>Compact magnetic design</li>
+                        </ul>
+                        <p class="details-text">Each approach was analytically modeled, compared experimentally, and benchmarked against commercial solutions. The resulting framework provides systematic design guidance for integrated EV power converters.</p>
+                    </div>
+
+                    <div class="bento-card span-3 research-work-card">
+                        <div class="research-work-grid">
+                            <div class="research-work-text">
+                                <div class="research-work-kicker">PhD Research</div>
+                                <h3 class="research-work-title">Semi-Active Bridge Converter, Light-Load Efficiency Enhancement</h3>
+                                <p>Investigated efficiency degradation mechanisms in semi-active bridge converters under light-load conditions.</p>
+
+                                <h4>Contributions include</h4>
+                                <ul class="clean-list">
+                                    <li>Frequency-domain analytical modeling</li>
+                                    <li>Multi-degree-of-freedom control strategy</li>
+                                    <li>Load-independent gain compensation</li>
+                                    <li>RMS tank current reduction</li>
+                                    <li>Hardware-validated efficiency improvement</li>
+                                </ul>
+
+                                <p class="details-text">The developed strategy improves light-load efficiency without magnetic overdesign and extends applicability across wide operating ranges.</p>
+
+                                <h4>Soft-Switching Range Extension</h4>
+                                <p class="details-text">Analyzed zero-voltage switching limitations across varying operating conditions and developed a design-centric strategy to extend the soft-switching range over the complete charging profile.</p>
+                            </div>
+
+                            <div class="research-work-media">
+                                <figure class="research-figure">
+                                    <img src="assets/images/research/ckt_2.avif" alt="Semi-active bridge converter circuit diagram" loading="lazy" decoding="async">
+                                    <figcaption>Fig. 5. Semi-active bridge converter circuit diagram.</figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bento-card span-3">
+                        <h3>Collaborative Research</h3>
+
+                        <h4>Three-Terminal Active Power Decoupling for EV and PV Systems</h4>
+                        <p class="details-text">Proposed a modified control strategy for three-terminal active power decoupling circuits.</p>
+                        <ul class="clean-list">
+                            <li>Effective ripple suppression with low sensing requirement</li>
+                            <li>Reduced component count</li>
+                            <li>Improved scalability via dual-converter configuration</li>
+                            <li>Simulation and hardware validation</li>
+                        </ul>
+
+                        <hr class="research-divider">
+
+                        <h4>Single-Stage High-Frequency Isolated Onboard Charger</h4>
+                        <p class="details-text">Explored a bidirectional interleaved totem-pole AC-DC converter with high-frequency isolation and no electrolytic capacitors.</p>
+                        <ul class="clean-list">
+                            <li>Fixed 50% duty interleaved grid stage</li>
+                            <li>Phase-shift based DC-side regulation</li>
+                            <li>Inherent power factor correction</li>
+                            <li>Wide-range soft switching</li>
                         </ul>
                     </div>
 
-                    <div class="bento-card span-1">
-                        <h4>Soft-Switching Range Extension</h4>
-                        <p class="details-text">Analysed ZVS loss in SDABC under varying load conditions and developed a design-centric approach to extend soft-switching across the charging profile.</p>
+                    <div class="bento-card span-3">
+                        <h3>M.Tech Research</h3>
+                        <h4>Stability Improvement of Series Stacked Buffer Circuit in Single-Phase Solar Inverter</h4>
+                        <p class="details-text">Analyzed instability caused by low source equivalent series resistance (SS-ESR) in series stacked buffer circuits and proposed a tailored control strategy to enhance stability, expand safe operating region, and improve robustness under varying PV source conditions. Validated using MATLAB and Simulink based small-signal modeling.</p>
+
+                        <hr class="research-divider">
+
+                        <h3>B.Tech Research</h3>
+                        <h4>Unity Power Factor Rectifier with Boost Front-End</h4>
+                        <p class="details-text">Designed and implemented a 350 W AC-DC boost PFC prototype featuring closed-loop current control, sinusoidal input current shaping, regulated DC output voltage, and hardware validation.</p>
+
+                        <h4>Design and Implementation of Marx Generator</h4>
+                        <p class="details-text">Designed and built a Marx generator capable of producing high-voltage pulses from a low-voltage DC source for pulsed power applications.</p>
+                    </div>
+
+                    <div class="bento-card span-3">
+                        <h3>Research Methodology</h3>
+                        <p>Across all research stages, my work integrates</p>
+                        <ul class="clean-list">
+                            <li>Analytical derivation</li>
+                            <li>Frequency-domain modeling</li>
+                            <li>RMS-current-based design</li>
+                            <li>Magnetic component optimization</li>
+                            <li>Hardware prototyping</li>
+                            <li>Experimental waveform validation</li>
+                            <li>Industrial benchmarking</li>
+                        </ul>
+                        <p class="details-text">The emphasis remains on architecture-level improvements and experimentally validated performance enhancement.</p>
                     </div>
                 </div>
             </section>
