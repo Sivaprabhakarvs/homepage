@@ -737,7 +737,7 @@ const galleryData = {
 
     {
       "filename": "Ootty_friends.avif",
-      "folder": "B.Tech Chronicles",
+      "folder": "Bombay Diaries",
       "category": "gallery"
     },
     {
