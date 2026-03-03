@@ -447,13 +447,26 @@
                         <p>Developing compact, cost-effective, and efficient DC-DC converters for electric vehicles, including onboard chargers (OBC) and auxiliary power modules (APM). The core focus of my Ph.D. thesis at IIT Bombay.</p>
                     </div>
 
-                    <div class="bento-card span-2">
-                        <h4>Integrated DC-DC Stage</h4>
-                        <ul class="clean-list">
-                            <li>Proposed a low-cost three-port integrated power converter combining OBC and APM stages with minimal device count.</li>
-                            <li>Designed and simulated port-decoupling controllers using PLECS.</li>
-                            <li>Fabricated a hardware prototype integrating a 1.5 kW OBC and 350 W APM for full practical validation.</li>
-                        </ul>
+                    <div class="bento-card span-3 research-work-card">
+                        <div class="research-work-grid">
+                            <div class="research-work-text">
+                                <div class="research-work-kicker">Work 1</div>
+                                <h3 class="research-work-title">Integration of OBC and APM</h3>
+                                <p>An integrated topology that combines onboard charger (OBC) and auxiliary power module (APM) can reduce size, cost, and weight in electric vehicles, especially as the APM power rating increases. Many existing solutions use additional switches or relays to alternate between OBC and APM functions, which prevents simultaneous operation. Other approaches rely on multi-winding transformers, which increases complexity and volume.</p>
+                                <p class="details-text">In this work, I propose a three-port integrated power converter that supports both OBC and APM operation without additional switches, relays, or multi-winding transformers. The topology uses three bridge configurations, two transformers, and one or two inductors. I validated the concept through circuit-level simulations in PLECS and hardware experiments on a prototype integrating a 1.5 kW OBC and a 350 W APM using a Texas Instruments C2000 Piccolo MCU (F28027F LaunchPad).</p>
+                            </div>
+
+                            <div class="research-work-media">
+                                <figure class="research-figure">
+                                    <img src="assets/images/research/circuit_diagram.png" alt="Circuit diagram of the proposed integrated power converter" loading="lazy" decoding="async">
+                                    <figcaption>Fig. 1. Circuit diagram of the proposed integrated power converter.</figcaption>
+                                </figure>
+                                <figure class="research-figure">
+                                    <img src="assets/images/research/revised_hardware_prototype.png" alt="Revised hardware prototype of the integrated power converter" loading="lazy" decoding="async">
+                                    <figcaption>Fig. 2. Revised hardware prototype.</figcaption>
+                                </figure>
+                            </div>
+                        </div>
                     </div>
 
                     <div class="bento-card span-1">

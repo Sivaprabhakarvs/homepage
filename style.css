@@ -712,6 +712,69 @@ body {
     color: var(--text-main);
 }
 
+
+/* Research work card */
+.research-work-card {
+    padding: 2.25rem;
+}
+
+.research-work-grid {
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 2rem;
+    align-items: start;
+}
+
+.research-work-kicker {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+
+.research-work-title {
+    font-family: var(--font-sans);
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--text-main);
+}
+
+.research-work-media {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+
+.research-figure {
+    margin: 0;
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+}
+
+.research-figure img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.research-figure figcaption {
+    padding: 0.85rem 1rem;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    border-top: 1px solid var(--glass-border);
+}
+
+@media (max-width: 900px) {
+    .research-work-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
 @media (max-width: 1200px) {
     .bento-grid {
         grid-template-columns: repeat(2, 1fr);
