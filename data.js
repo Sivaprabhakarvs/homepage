@@ -324,7 +324,7 @@ const galleryData = {
       "category": "photographs"
     },
     {
-      "filename": "Hawa_mahal.avif",
+      "filename": "Hawa_Mahal.avif",
       "title": "Hawa Mahal",
       "category": "photographs"
     },
