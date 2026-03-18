@@ -511,11 +511,7 @@ const galleryData = {
       "folder": "Bombay Diaries",
       "category": "gallery"
     },
-    {
-      "filename": "Committe.avif",
-      "folder": "Kanpur Days",
-      "category": "gallery"
-    },
+
     {
       "filename": "Cousins_1.avif",
       "folder": "Family",
@@ -645,11 +641,7 @@ const galleryData = {
       "category": "gallery"
     },
 
-    {
-      "filename": "Khajuraho.avif",
-      "folder": "Kanpur Days",
-      "category": "gallery"
-    },
+ 
     {
       "filename": "Knottyard.avif",
       "folder": "Bombay Diaries",
@@ -847,11 +839,6 @@ const galleryData = {
     {
       "filename": "Solo_4.avif",
       "folder": "Solo",
-      "category": "gallery"
-    },
-    {
-      "filename": "Kanpur_gang.avif",
-      "folder": "Kanpur Days",
       "category": "gallery"
     }
 	
