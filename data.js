@@ -496,11 +496,7 @@ const galleryData = {
       "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
-    {
-      "filename": "Chali_vaedi.avif",
-      "folder": "Kanpur Days",
-      "category": "gallery"
-    },
+
     {
       "filename": "Chambanz.avif",
       "folder": "B.Tech Chronicles",
