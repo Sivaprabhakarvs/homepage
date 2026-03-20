@@ -472,11 +472,6 @@ const galleryData = {
       "category": "gallery"
     },
     {
-      "filename": "Aslam_home_1.avif",
-      "folder": "Bombay Diaries",
-      "category": "gallery"
-    },
-    {
       "filename": "Bangalore.avif",
       "folder": "B.Tech Chronicles",
       "category": "gallery"
@@ -580,11 +575,6 @@ const galleryData = {
       "category": "gallery"
     },
     {
-      "filename": "Harichettan_marriage.avif",
-      "folder": "Kanpur Days",
-      "category": "gallery"
-    },
-    {
       "filename": "Hyderabad_1.avif",
       "folder": "B.Tech Chronicles",
       "category": "gallery"
@@ -618,16 +608,6 @@ const galleryData = {
     },
     {
       "filename": "Kanpur_group_2.avif",
-      "folder": "Kanpur Days",
-      "category": "gallery"
-    },
-    {
-      "filename": "Kanpur_group_3.avif",
-      "folder": "Kanpur Days",
-      "category": "gallery"
-    },
-    {
-      "filename": "Kanpur_mtechs.avif",
       "folder": "Kanpur Days",
       "category": "gallery"
     },
