@@ -447,11 +447,6 @@ const galleryData = {
       "category": "gallery"
     },
     {
-      "filename": "Abhi.avif",
-      "folder": "B.Tech Chronicles",
-      "category": "gallery"
-    },
-    {
       "filename": "Abhishek_sister_marriage.avif",
       "folder": "Bombay Diaries",
       "category": "gallery"
@@ -686,26 +681,14 @@ const galleryData = {
       "folder": "Bombay Diaries",
       "category": "gallery"
     },
-
-    {
-      "filename": "Nair_kora.avif",
-      "folder": "B.Tech Chronicles",
-      "category": "gallery"
-    },
-    {
-      "filename": "Naji_nair.avif",
-      "folder": "B.Tech Chronicles",
-      "category": "gallery"
-    },
     {
       "filename": "NITC_boys.avif",
       "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
-
     {
       "filename": "Ootty_friends.avif",
-      "folder": "Bombay Diaries",
+      "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
     {
