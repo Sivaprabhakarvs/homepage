@@ -486,12 +486,6 @@ const galleryData = {
       "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
-
-    {
-      "filename": "Chambanz.avif",
-      "folder": "B.Tech Chronicles",
-      "category": "gallery"
-    },
     {
       "filename": "Chicago.avif",
       "folder": "Bombay Diaries",
@@ -545,12 +539,6 @@ const galleryData = {
     },
     {
       "filename": "Farewell_2.avif",
-      "folder": "B.Tech Chronicles",
-      "category": "gallery"
-    },
-
-    {
-      "filename": "Goa_gang.avif",
       "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
