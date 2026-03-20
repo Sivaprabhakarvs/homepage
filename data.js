@@ -442,8 +442,18 @@ const galleryData = {
     /* -------------------- GALLERY (CORRECTED) -------------------- */
 
     {
+      "filename": "Abhi_ramesh_1.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+	{
       "filename": "4th_year.avif",
       "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+	    {
+      "filename": "Sanjay_gandhi_2.avif",
+      "folder": "Bombay Diaries",
       "category": "gallery"
     },
     {
@@ -453,11 +463,6 @@ const galleryData = {
     },
     {
       "filename": "Abhi_marriage.avif",
-      "folder": "B.Tech Chronicles",
-      "category": "gallery"
-    },
-    {
-      "filename": "Abhi_ramesh_1.avif",
       "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
@@ -612,17 +617,6 @@ const galleryData = {
       "category": "gallery"
     },
     {
-      "filename": "Kozhikode_1.avif",
-      "folder": "B.Tech Chronicles",
-      "category": "gallery"
-    },
-    {
-      "filename": "Kuttiyadi.avif",
-      "folder": "B.Tech Chronicles",
-      "category": "gallery"
-    },
-
-    {
       "filename": "Lab_4.avif",
       "folder": "PERI Group",
       "category": "gallery"
@@ -712,17 +706,6 @@ const galleryData = {
     },
     {
       "filename": "Sajithettan_home_3.avif",
-      "folder": "Bombay Diaries",
-      "category": "gallery"
-    },
-
-    {
-      "filename": "Sanjay_gandhi_1.avif",
-      "folder": "Bombay Diaries",
-      "category": "gallery"
-    },
-    {
-      "filename": "Sanjay_gandhi_2.avif",
       "folder": "Bombay Diaries",
       "category": "gallery"
     },
