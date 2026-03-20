@@ -496,7 +496,11 @@ const galleryData = {
       "folder": "Bombay Diaries",
       "category": "gallery"
     },
-
+    {
+      "filename": "Family_2.avif",
+      "folder": "Family",
+      "category": "gallery"
+    },
     {
       "filename": "Cousins_1.avif",
       "folder": "Family",
@@ -529,11 +533,6 @@ const galleryData = {
     },
     {
       "filename": "Family_1.avif",
-      "folder": "Family",
-      "category": "gallery"
-    },
-    {
-      "filename": "Family_2.avif",
       "folder": "Family",
       "category": "gallery"
     },
@@ -588,14 +587,13 @@ const galleryData = {
       "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
-
-    {
-      "filename": "Kanpur_group_1.avif",
+ {
+      "filename": "Kanpur_group_2.avif",
       "folder": "Kanpur Days",
       "category": "gallery"
     },
     {
-      "filename": "Kanpur_group_2.avif",
+      "filename": "Kanpur_group_1.avif",
       "folder": "Kanpur Days",
       "category": "gallery"
     },
@@ -604,8 +602,11 @@ const galleryData = {
       "folder": "Kanpur Days",
       "category": "gallery"
     },
-
- 
+	{
+      "filename": "Lab_5.avif",
+      "folder": "PERI Group",
+      "category": "gallery"
+    },
     {
       "filename": "Knottyard.avif",
       "folder": "Bombay Diaries",
@@ -621,11 +622,7 @@ const galleryData = {
       "folder": "PERI Group",
       "category": "gallery"
     },
-    {
-      "filename": "Lab_5.avif",
-      "folder": "PERI Group",
-      "category": "gallery"
-    },
+    
     {
       "filename": "Lab_group_1.avif",
       "folder": "PERI Group",
