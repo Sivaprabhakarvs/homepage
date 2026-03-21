@@ -466,8 +466,18 @@ const galleryData = {
       "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
+	{
+      "filename": "Aslam_home.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
     {
       "filename": "Akash_biswajit.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+	{
+      "filename": "H1_boys.avif",
       "folder": "Bombay Diaries",
       "category": "gallery"
     },
@@ -587,7 +597,17 @@ const galleryData = {
       "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
- {
+	{
+      "filename": "Kanpur_committee.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+	{
+      "filename": "Kanpur_onam_2.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+    {
       "filename": "Kanpur_group_2.avif",
       "folder": "Kanpur Days",
       "category": "gallery"
@@ -603,6 +623,26 @@ const galleryData = {
       "category": "gallery"
     },
 	{
+      "filename": "Kanpur_ghat.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+	{
+      "filename": "Khajuraho.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+	{
+      "filename": "Manali.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+	{
+      "filename": "Kanpur_onam_3.avif",
+      "folder": "Kanpur Days",
+      "category": "gallery"
+    },
+	{
       "filename": "Lab_5.avif",
       "folder": "PERI Group",
       "category": "gallery"
@@ -610,6 +650,21 @@ const galleryData = {
     {
       "filename": "Knottyard.avif",
       "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+	{
+      "filename": "Lab_outing.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+	{
+      "filename": "Sandeep_Jenson.avif",
+      "folder": "Bombay Diaries",
+      "category": "gallery"
+    },
+	{
+      "filename": "Matheran.avif",
+      "folder": "PERI Group",
       "category": "gallery"
     },
     {
