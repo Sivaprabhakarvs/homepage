@@ -11,6 +11,51 @@ const galleryData = {
     /* -------------------- PENCIL SKETCHES -------------------- */
 
     {
+      "filename": "Dh_kh_ro.avif",
+      "title": "Dh Kh Ro",
+      "category": "pencil_sketches"
+    },
+    {
+      "filename": "Caricature_2.avif",
+      "title": "Caricature 2",
+      "category": "pencil_sketches"
+    },
+    {
+      "filename": "Caricature_3.avif",
+      "title": "Caricature 3",
+      "category": "pencil_sketches"
+    },
+	{
+      "filename": "Cbi.avif",
+      "title": "CBI",
+      "category": "pencil_sketches"
+    },
+    {
+      "filename": "Dashamoolam_damu.avif",
+      "title": "Dashamoolam Damu",
+      "category": "pencil_sketches"
+    },
+    {
+      "filename": "Messi.avif",
+      "title": "Messi",
+      "category": "pencil_sketches"
+    },
+    {
+      "filename": "Phoenix.avif",
+      "title": "Phoenix",
+      "category": "pencil_sketches"
+    },
+    {
+      "filename": "Shammi.avif",
+      "title": "Shammi",
+      "category": "pencil_sketches"
+    },
+	{
+      "filename": "Kungfu_panda.avif",
+      "title": "Caricature 3",
+      "category": "pencil_sketches"
+    },
+	{
       "filename": "Virat.avif",
       "title": "Virat",
       "category": "pencil_sketches"
@@ -71,11 +116,6 @@ const galleryData = {
       "category": "pencil_sketches"
     },
     {
-      "filename": "Mrunal.avif",
-      "title": "Mrunal",
-      "category": "pencil_sketches"
-    },
-    {
       "filename": "Iron_man.avif",
       "title": "Iron Man",
       "category": "pencil_sketches"
@@ -130,21 +170,7 @@ const galleryData = {
       "title": "Depression",
       "category": "pencil_sketches"
     },
-    {
-      "filename": "Dh_kh_ro.avif",
-      "title": "Dh Kh Ro",
-      "category": "pencil_sketches"
-    },
-    {
-      "filename": "Caricature_2.avif",
-      "title": "Caricature 2",
-      "category": "pencil_sketches"
-    },
-    {
-      "filename": "Caricature_3.avif",
-      "title": "Caricature 3",
-      "category": "pencil_sketches"
-    },
+    
     {
       "filename": "Cartoon_1.avif",
       "title": "Cartoon 1",
@@ -181,34 +207,40 @@ const galleryData = {
       "category": "pencil_sketches"
     },
     {
-      "filename": "Cbi.avif",
-      "title": "CBI",
+      "filename": "Happy_ride.avif",
+      "title": "Happy ride",
       "category": "pencil_sketches"
     },
-    {
-      "filename": "Dashamoolam_damu.avif",
-      "title": "Dashamoolam Damu",
+	{
+      "filename": "Skeleton.avif",
+      "title": "Skeleton",
       "category": "pencil_sketches"
     },
-    {
-      "filename": "Messi.avif",
-      "title": "Messi",
+	{
+      "filename": "Tiger.avif",
+      "title": "Tiger",
       "category": "pencil_sketches"
     },
-    {
-      "filename": "Phoenix.avif",
-      "title": "Phoenix",
-      "category": "pencil_sketches"
-    },
-    {
-      "filename": "Shammi.avif",
-      "title": "Shammi",
+	{
+      "filename": "Mohanlal.avif",
+      "title": "Mohanlal",
       "category": "pencil_sketches"
     },
 
     /* -------------------- PHOTOGRAPHS -------------------- */
 
     {
+      "filename": "Fierce.avif",
+      "title": "Fierce",
+      "category": "photographs"
+    },
+	{
+      "filename": "Companions.avif",
+      "title": "Companions",
+      "category": "photographs"
+    },
+	
+	{
       "filename": "Voyage.avif",
       "title": "Voyage",
       "category": "photographs"
@@ -323,6 +355,31 @@ const galleryData = {
       "title": "Hunter",
       "category": "photographs"
     },
+	{
+      "filename": "Flight.avif",
+      "title": "Flight",
+      "category": "photographs"
+    },
+	{
+      "filename": "Wild.avif",
+      "title": "Wild",
+      "category": "photographs"
+    },
+	{
+      "filename": "Tranquil.avif",
+      "title": "Tranquil",
+      "category": "photographs"
+    },
+	{
+      "filename": "Twilight.avif",
+      "title": "Twilight",
+      "category": "photographs"
+    },
+	{
+      "filename": "Curious.avif",
+      "title": "Curious",
+      "category": "photographs"
+    },
     {
       "filename": "Innocence.avif",
       "title": "Innocence",
@@ -381,11 +438,6 @@ const galleryData = {
     {
       "filename": "Bloom.avif",
       "title": "Bloom",
-      "category": "photographs"
-    },
-    {
-      "filename": "Companions.avif",
-      "title": "Companions",
       "category": "photographs"
     },
     {
