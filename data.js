@@ -735,7 +735,16 @@ const galleryData = {
       "folder": "PERI Group",
       "category": "gallery"
     },
-
+	{
+      "filename": "Caravan_1.avif",
+      "folder": "PERI Group",
+      "category": "gallery"
+    },
+	{
+      "filename": "Caravan_2.avif",
+      "folder": "PERI Group",
+      "category": "gallery"
+    },
     {
       "filename": "Marriage.avif",
       "folder": "Solo",
