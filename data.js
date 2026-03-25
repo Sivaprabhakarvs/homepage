@@ -543,16 +543,22 @@ const galleryData = {
       "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
+	{
+      "filename": "Cherai.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
+	{
+      "filename": "Marine_drive.avif",
+      "folder": "B.Tech Chronicles",
+      "category": "gallery"
+    },
     {
       "filename": "Branch_onam.avif",
       "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
-    {
-      "filename": "Branch_tour.avif",
-      "folder": "B.Tech Chronicles",
-      "category": "gallery"
-    },
+    
     {
       "filename": "Chicago.avif",
       "folder": "Bombay Diaries",
@@ -839,7 +845,7 @@ const galleryData = {
     },
 
     {
-      "filename": "Trivandrum_2.avif",
+      "filename": "SAC_onam.avif",
       "folder": "B.Tech Chronicles",
       "category": "gallery"
     },
