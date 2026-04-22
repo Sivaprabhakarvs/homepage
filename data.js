@@ -15,6 +15,11 @@ const galleryData = {
       "title": "Dh Kh Ro",
       "category": "pencil_sketches"
     },
+	{
+      "filename": "Animal_3.avif",
+      "title": "Animal 3",
+      "category": "pencil_sketches"
+    },
     {
       "filename": "Caricature_2.avif",
       "title": "Caricature 2",
